@@ -59,19 +59,24 @@ Heart disease is one of the leading causes of mortality worldwide. Early and acc
 
 ## c. GitHub Repository Link
 
-> 🔗 **[https://github.com/YOUR_USERNAME/heart-disease-ml-classifier](https://github.com/YOUR_USERNAME/heart-disease-ml-classifier)**
+> 🔗 **[https://github.com/komaljotkaur01/heart-disease-ml-assignment](https://github.com/komaljotkaur01/heart-disease-ml-assignment)**
+
+### Live Streamlit App Link
+
+> 🔗 **Deployment URL:** Pending deployment on Streamlit Community Cloud
 
 ### Repository Structure
 
 ```
-heart-disease-ml-classifier/
+heart-disease-ml-assignment/
 │
 ├── app.py                    # Streamlit web application (main entry point)
 ├── requirements.txt          # Python dependencies
-├── README.md                 # This file
+├── README.md                 # Project documentation
 ├── test_data.csv             # Test dataset (200 rows, 14 columns)
 ├── heart_disease_full.csv    # Full dataset (1000 rows)
 ├── generate_dataset.py       # Dataset generation script
+├── ML_Assignment_2.pdf       # Assignment PDF
 │
 └── model/
     ├── train_models.py       # Model training & evaluation script
