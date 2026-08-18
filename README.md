@@ -235,9 +235,30 @@ seaborn>=0.12.0
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-> *(Screenshot of assignment execution on BITS Virtual Lab to be added here)*
+### Streamlit App Interface — Overview Tab
+
+The interactive Streamlit application features a user-friendly interface for heart disease classification:
+
+<img src="https://imgur.com/upload" alt="Heart Disease ML App - Overview Tab" width="900">
+
+**Features shown in this screenshot:**
+- ❤️ **Title:** Heart Disease Classification with subtitle (ML Assignment 2 | BITS WILP M.Tech AIML/DSE)
+- 📋 **Problem Statement section** with detailed description
+- 📊 **Dataset Statistics:** 1,000 total instances, 13 features, Binary Classification task
+- 🏥 **Objective:** Predict heart disease based on clinical features
+- 🎯 **Controls Panel:** Upload test data (CSV format, 200MB per file limit)
+- 📑 **Model Selection:** Dropdown menu to choose classification model
+- 📋 **Dataset Preview:** Scroll through data with search functionality
+
+**Navigation Tabs:**
+- **Overview Tab** — Problem statement, dataset statistics, and model information
+- **Model Evaluation Tab** — Upload test CSV, select model, view metrics (Accuracy, AUC, Precision, Recall, F1, MCC)
+- **AI Models Tab** — Comparison of all 5 classification models
+- **Dataset Info Tab** — Data distribution, feature statistics, and correlation heatmap
+
+**Live Demo:** 🌐 [https://heart-disease-ml-assignment-j8devpdbr9nr9vyegwxr36.streamlit.app/](https://heart-disease-ml-assignment-j8devpdbr9nr9vyegwxr36.streamlit.app/)
 
 ---
 
