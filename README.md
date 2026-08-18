@@ -63,7 +63,7 @@ Heart disease is one of the leading causes of mortality worldwide. Early and acc
 
 ### Live Streamlit App Link
 
-> 🔗 **Deployment URL:** Pending deployment on Streamlit Community Cloud
+> 🔗 **[https://heart-disease-ml-assignment-j8devpdbr9nr9vyegwxr36.streamlit.app/](https://heart-disease-ml-assignment-j8devpdbr9nr9vyegwxr36.streamlit.app/)**
 
 ### Repository Structure
 
@@ -156,7 +156,7 @@ The deployed Streamlit application includes:
 | ✅ **Hyperparameter Tuning** | Interactive sliders for model parameters |
 
 ### Live App Link
-> 🌐 **[https://YOUR-APP-NAME.streamlit.app](https://YOUR-APP-NAME.streamlit.app)**
+> 🌐 **[https://heart-disease-ml-assignment-j8devpdbr9nr9vyegwxr36.streamlit.app/](https://heart-disease-ml-assignment-j8devpdbr9nr9vyegwxr36.streamlit.app/)**
 
 ---
 
@@ -166,7 +166,7 @@ The deployed Streamlit application includes:
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/heart-disease-ml-classifier.git
+git clone https://github.com/komaljotkaur01/heart-disease-ml-assignment.git
 cd heart-disease-ml-classifier
 
 # 2. Create virtual environment
